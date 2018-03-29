@@ -18,7 +18,7 @@ int main(){
 //   */
 //indent once
     //more explicit names
-    bool start = true;
+    //bool start = true;
     //int ctr = 0;
     int openBrackets = 0, closedBrackets = 0;
 
