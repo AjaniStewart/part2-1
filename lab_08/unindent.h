@@ -3,4 +3,4 @@ using namespace std;
 
 
 string removeLeadingSpaces(string);
-int countChar(string);
+int countChar(string,char);
